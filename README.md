@@ -42,8 +42,8 @@
 
 ---
 
-<p align="center">🌸 Thanks for stopping by! Have a pink and productive day 🌸</p>
+<p align="center">🌸 Thanks for stopping by! 🌸</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/72/b3/22/72b32224f4bdfc105af34ad5eeec1bdf.jpg" width="100%" />
+  <img src="https://i.pinimg.com/736x/77/98/6d/77986daac3823b58b6660190b6d5936c.jpg" width="100%" />
 </p>
