@@ -6,12 +6,13 @@
   <!-- RIGHT SIDE: About Me -->
   <div>
     <h1>Hi ♡⊹, I'm Diya!</h1>
-    <h3>A passionate frontend developer and UI/UX designer from India 🌸</h3>
+    <h3>A passionate frontend developer and UI/UX designer from India ♡</h3>
     <ul>
       <li>🌸 I’m currently working on <a href="https://www.theodinproject.com/">The Odin Project</a></li>
       <li>🌸 I’m currently learning <strong>Web dev ⋆｡𖦹 ˚</strong></li>
       <li>🌸 Ask me about <strong>HTML, UI Design, Figma ♡</strong></li>
-      <li>🌸 How to reach me: <strong>b.diyasingh@gmail.com</strong></li>
+      <li>🌸 Reach out to me: <strong>b.diyasingh@gmail.com</strong></li>
+      <li>🌸 Check out my work:  <a href="https://github.com/bubblesbubble?tab=repositories">Diya's repos ˆ𐃷ˆ</a></li>
       <li>🌸 Current mood: <strong>˃ 𖥦 ˂</strong></li>
     </ul>
   </div>
@@ -29,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
   <a href="https://leetcode.com/diyasinghlol" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/>
   </a>
 </p>
 
