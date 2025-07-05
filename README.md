@@ -23,15 +23,9 @@
 
 ### 🌸 Connect with me:
 <p>
-  <a href="https://linkedin.com/in/diyasingh21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
-  <a href="https://instagram.com/1ly.xx" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
-  </a>
-  <a href="https://leetcode.com/diyasinghlol" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/>
-  </a>
+  <a href="https://linkedin.com/in/diyasingh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diyasingh21" height="30" width="40" /></a>
+<a href="https://instagram.com/1ly.xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1ly.xx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/diyasinghlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diyasinghlol" height="30" width="40" /></a>
 </p>
 
 ---
