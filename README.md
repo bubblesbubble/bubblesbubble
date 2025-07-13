@@ -10,7 +10,7 @@
     <ul>
       <li>🌸 I’m currently working on <a href="https://www.theodinproject.com/">The Odin Project</a></li>
       <li>🌸 I’m currently learning <strong>Web dev ⋆｡𖦹 ˚</strong></li>
-      <li>🌸 Ask me about <strong>HTML, UI Design, Figma ♡</strong></li>
+      <li>🌸 Ask me about <strong>HTML, CSS, UI Design, Figma ♡</strong></li>
       <li>🌸 Reach out to me: <strong>b.diyasingh@gmail.com</strong></li>
       <li>🌸 Check out my work:  <a href="https://github.com/bubblesbubble?tab=repositories">Diya's repos ˆ𐃷ˆ</a></li>
       <li>🌸 Current mood: <strong>˃ 𖥦 ˂</strong></li>
